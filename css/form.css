@@ -1,0 +1,178 @@
+* {
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", "sans-serif";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+body {
+    position: relative;
+    background: #f5fffb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+::selection {
+    color: #ececec;
+    background: #16a085;
+
+}
+
+.form {
+    margin-top: 75px ;
+    position: relative;
+    background: #82ffde;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 12px;
+    box-shadow: -3px 3px 10px -5px rgba(0, 0, 0, 0.2);
+    padding: 30px 30px;
+}
+
+.form h2 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.form p {
+    font-size: 14px;
+    padding-bottom: 8px;
+}
+
+.form form {
+    margin: 8px 0;
+
+}
+
+.form form .profile-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 75px;
+    height: 75px;
+    margin: 18px 30px;
+    background: #f2f3f7;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    background-image: url("https://th.bing.com/th/id/R.bae2d37c4317140a408aef6671346186?rik=X1vYbxH6nQxCcA&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_218090.png&ehk=poXsiWmpbb3%2b%2bK%2blj8H9AQprCYsoz4kt%2bU4rFFKbOCo%3d&risl=&pid=ImgRaw&r=0");
+    border-radius: 50%;
+    border: 4px solid #16a085;
+
+}
+
+.file-upload {
+    position: absolute;
+    top: 0;
+    right: -15px;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    border-radius: 50%;
+    border: 2px solid #d2d3d7;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #16a085, #f2f3f7);
+    background-size: 100% 200%;
+    transition: all 1s;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+form input [type="file"] {
+    position: relative;
+    height: 80px;
+    width: 80px;
+    opacity: 0;
+    cursor: pointer;
+    padding: 20px;
+
+}
+
+form i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    color: #333;
+    z-index: 100;
+    pointer-events: none;
+    cursor: pointer;
+}
+
+.file-upload:hover {
+    background-position: 0 100%;
+}
+
+.file-upload:hover i {
+    color: #13705d;
+
+}
+.form form .error-text{
+    display: none;
+    color:#851923;
+    padding: 4px 6px;
+    text-align: center;
+    border-radius: 4px;
+    background: #ffe3e5;
+    border: 1px solid #dfa5ab;
+    margin-bottom: 8px;
+}
+.form .grid-details{
+    display: flexbox;
+   
+}
+.form .grid-details .input:first-child{
+    margin-right: 8px;
+    width: 100%;
+}
+.form .grid-details .input:last-child{
+    margin-left: 8px;
+    width: 100%;
+
+}
+.form form .input input{
+    height: 40px;
+    width: 100%;
+    font-size: 15px;
+    padding: 0 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+.form form .input input:focus,
+.form form .input input:valid{
+ border: 2px solid #16a085;
+ transition: 0.1s ease;
+ outline: none;   
+}
+.form form input.button{
+    height: 45px;
+    border: none;
+    color: #f2f3f7;
+    width: 100%;
+    background: #16a085;
+    font-size:17px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 13px;
+    border: 2px solid #16a085;
+
+}
+.form .link{
+    text-align: center;
+    margin: 10px 0;
+    font-size: 17px;
+}
+.form .link a{
+    color: #16a085;
+    transition: 0.5s all;
+}
+.form .link a:hover{
+    text-decoration: underline;
+}
