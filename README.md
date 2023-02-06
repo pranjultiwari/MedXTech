@@ -2,14 +2,14 @@
 <strong> MedXTech </strong> is a hospital management website which has two interface one for the doctor and the other for the patient.<br>
 Various features of MedXTech are:<br>
 <ul>
-  <li>Patient can book appointment for consultance from the doctor.<br></li>
-  <li>Patient can update the status of condition and symptoms.<br></li>
-  <li>Doctor can prescribe the medicine on the portal.<br></li>
-  <li>MedXTech is an excellent platform where doctors and medical consultant can freelance.<br></li>
-  <li>Free camps organized by the government are updated on our website.<br></li>
-  <li>Permanent Medical record is created at the hospital/administration end.<br></li>
-  <li>24*7 availability of the medical consultants.<br></li>
-  <li>Doctors of various specializations around the country can be added on the website.<br></li>
+  <li>Patient can book appointment for consultance from the doctor.</li>
+  <li>Patient can update the status of condition and symptoms.</li>
+  <li>Doctor can prescribe the medicine on the portal.</li>
+  <li>MedXTech is an excellent platform where doctors and medical consultant can freelance.</li>
+  <li>Free camps organized by the government are updated on our website.</li>
+  <li>Permanent Medical record is created at the hospital/administration end.</li>
+  <li>24*7 availability of the medical consultants.</li>
+  <li>Doctors of various specializations around the country can be added on the website.</li>
 </ul>
 
 
@@ -110,6 +110,8 @@ Various features of MedXTech are:<br>
 
 
 <h1>Future References:</h5>
-Transations will be encrypted using blockchain technology.<br>
-Collaborations could be done with the labs, pharmacies and the hospitals.<br>
-chatbots will be used for the 24*7 consumer interations and many more.<br>
+<ul>
+  <li>Transations will be encrypted using blockchain technology.</li>
+  <li>Collaborations could be done with the labs, pharmacies and the hospitals.</li>
+  <li>Chatbots will be used for the 24*7 consumer interations and many more.</li>
+</ul>
