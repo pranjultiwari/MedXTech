@@ -1,14 +1,14 @@
 # MedXTech---By-Team-Abhimanyu
-<strong> MedXTech </strong> is a hospital management website which has two interface one for the doctor and the other for the patient.
-Various features of MedXTech are:
-Patient can book appointment for consultance from the doctor.
-Patient can update the status of condition and symptoms.
-Doctor can prescribe the medicine on the portal.
-MedXTech is an excellent platform where doctors and medical consultant can freelance.
-Free camps organized by the government are updated on our website.
-Permanent Medical record is created at the hospital/administration end.
-24*7 availability of the medical consultants.
-Doctors of various specializations around the country can be added on the website.
+<strong> MedXTech </strong> is a hospital management website which has two interface one for the doctor and the other for the patient.<br>
+Various features of MedXTech are:<br>
+Patient can book appointment for consultance from the doctor.<br>
+Patient can update the status of condition and symptoms.<br>
+Doctor can prescribe the medicine on the portal.<br>
+MedXTech is an excellent platform where doctors and medical consultant can freelance.<br>
+Free camps organized by the government are updated on our website.<br>
+Permanent Medical record is created at the hospital/administration end.<br>
+24*7 availability of the medical consultants.<br>
+Doctors of various specializations around the country can be added on the website.<br>
 
 
 
@@ -26,7 +26,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>02</h2>
 </head>
 </html>
 
@@ -34,7 +34,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>03</h2>
 </head>
 </html>
 
@@ -42,7 +42,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>04</h2>
 </head>
 </html>
 
@@ -50,7 +50,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>05</h2>
 </head>
 </html>
 
@@ -58,7 +58,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>06</h2>
 </head>
 </html>
 
@@ -66,7 +66,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>07</h2>
 </head>
 </html>
 
@@ -74,7 +74,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>08</h2>
 </head>
 </html>
 
@@ -82,7 +82,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>09</h2>
 </head>
 </html>
 
@@ -90,7 +90,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>10</h2>
 </head>
 </html>
 
@@ -98,7 +98,7 @@ Doctors of various specializations around the country can be added on the websit
 
 <html>
 <head>
-<h2>01</h2>
+<h2>11</h2>
 </head>
 </html>
 
@@ -108,6 +108,6 @@ Doctors of various specializations around the country can be added on the websit
 
 
 <h1>Future References:</h5>
-Transations will be encrypted using blockchain technology.
-Collaborations could be done with the labs, pharmacies and the hospitals.
-chatbots will be used for the 24*7 consumer interations and many more.
+Transations will be encrypted using blockchain technology.<br>
+Collaborations could be done with the labs, pharmacies and the hospitals.<br>
+chatbots will be used for the 24*7 consumer interations and many more.<br>
