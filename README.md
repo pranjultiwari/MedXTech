@@ -1,14 +1,16 @@
 # MedXTech---By-Team-Abhimanyu
 <strong> MedXTech </strong> is a hospital management website which has two interface one for the doctor and the other for the patient.<br>
 Various features of MedXTech are:<br>
-Patient can book appointment for consultance from the doctor.<br>
-Patient can update the status of condition and symptoms.<br>
-Doctor can prescribe the medicine on the portal.<br>
-MedXTech is an excellent platform where doctors and medical consultant can freelance.<br>
-Free camps organized by the government are updated on our website.<br>
-Permanent Medical record is created at the hospital/administration end.<br>
-24*7 availability of the medical consultants.<br>
-Doctors of various specializations around the country can be added on the website.<br>
+<ul>
+  <li>Patient can book appointment for consultance from the doctor.<br></li>
+  <li>Patient can update the status of condition and symptoms.<br></li>
+  <li>Doctor can prescribe the medicine on the portal.<br></li>
+  <li>MedXTech is an excellent platform where doctors and medical consultant can freelance.<br></li>
+  <li>Free camps organized by the government are updated on our website.<br></li>
+  <li>Permanent Medical record is created at the hospital/administration end.<br></li>
+  <li>24*7 availability of the medical consultants.<br></li>
+  <li>Doctors of various specializations around the country can be added on the website.<br></li>
+</ul>
 
 
 
