@@ -1,5 +1,5 @@
 # MedXTech---By-Team-Abhimanyu
-MedXTech is a hospital management website which has two interface one for the doctor and the other for the patient.
+<strong> MedXTech </strong> is a hospital management website which has two interface one for the doctor and the other for the patient.
 Various features of MedXTech are:
 Patient can book appointment for consultance from the doctor.
 Patient can update the status of condition and symptoms.
@@ -13,7 +13,7 @@ Doctors of various specializations around the country can be added on the websit
 
 
 
-Preview Pictures of the website's interface are attached below-
+<h4> Preview Pictures of the website's interface are attached below- </h4>
 
 
 <html>
@@ -37,6 +37,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_03](https://user-images.githubusercontent.com/114832456/216946581-ac0cb5a7-930f-4377-9fdb-193b17c76165.jpg)
 
 <html>
@@ -44,6 +45,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_04](https://user-images.githubusercontent.com/114832456/216946590-004d48bd-2539-4a9d-9418-dd859644b2ac.jpg)
 
 <html>
@@ -51,6 +53,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_05](https://user-images.githubusercontent.com/114832456/216946591-49fccc29-3160-4839-b83e-4ed2bcc1ab9a.jpg)
 
 <html>
@@ -58,6 +61,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_06](https://user-images.githubusercontent.com/114832456/216946595-bfb60301-ea02-481a-9ac1-2092a2490843.jpg)
 
 <html>
@@ -65,6 +69,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_07](https://user-images.githubusercontent.com/114832456/216946598-2e4bdb29-6ebc-4f72-a090-eb7566a74a76.jpg)
 
 <html>
@@ -72,6 +77,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_08](https://user-images.githubusercontent.com/114832456/216946599-3079928c-724a-464c-a712-684439d1a667.jpg)
 
 <html>
@@ -79,6 +85,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_09](https://user-images.githubusercontent.com/114832456/216946601-77b6a6f9-15db-46ee-96ec-898e2adaed87.jpg)
 
 <html>
@@ -86,6 +93,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_10](https://user-images.githubusercontent.com/114832456/216946603-7b946f1e-4568-413e-84e2-3aaea64cf3cb.jpg)
 
 <html>
@@ -93,6 +101,7 @@ Preview Pictures of the website's interface are attached below-
 <h2>01</h2>
 </head>
 </html>
+
 ![MedXTech_11](https://user-images.githubusercontent.com/114832456/216946608-ca1b8607-bfd3-4012-97d8-28667e8e684e.jpg)
 
 
