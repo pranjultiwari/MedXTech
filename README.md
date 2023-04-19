@@ -1,4 +1,4 @@
-# MedXTech---By-Team-Abhimanyu
+# MedXTech
 <strong> MedXTech </strong> is a hospital management website which has two interface one for the doctor and the other for the patient.<br>
 Various features of MedXTech are:<br>
 <ul>
