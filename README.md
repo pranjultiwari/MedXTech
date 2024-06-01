@@ -6,7 +6,7 @@ Various features of MedXTech are:<br>
   <li>Patient can update the status of condition and symptoms.</li>
   <li>Doctor can prescribe the medicine on the portal.</li>
   <li>MedXTech is an excellent platform where doctors and medical consultant can freelance.</li>
-  <li>Free camps organized by the government are updated on our website.</li>
+  <li>Free camps organized by the government are updated on our website through API.</li>
   <li>Permanent Medical record is created at the hospital/administration end.</li>
   <li>24*7 availability of the medical consultants.</li>
   <li>Doctors of various specializations around the country can be added on the website.</li>
